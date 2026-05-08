@@ -37,6 +37,7 @@ Standards and frameworks that enable healthcare systems to exchange and understa
 - [FHIR (Fast Healthcare Interoperability Resources)](https://www.hl7.org/fhir/) — Standard for exchanging healthcare information electronically.
 - [HL7](https://www.hl7.org/) — International standards organization for healthcare data exchange.
 - [LOINC](https://loinc.org/) — Standard for identifying medical laboratory observations.
+- [NotaSalud](https://notasalud.com/cie) — Spanish ICD-10/ICD-11 search and reference site with code pages and an embeddable CIE-10 widget.
 - [SNOMED CT](https://www.snomed.org/) — Comprehensive clinical terminology for healthcare data.
 
 ## Healthcare Analytics
