@@ -69,6 +69,7 @@ Platforms and datasets supporting epidemiology, research, and population health.
 
 - [CDC Data & Surveillance](https://data.cdc.gov/) — Public health datasets and surveillance systems.
 - [Global Health Observatory (WHO)](https://www.who.int/data/gho) — Global health statistics and indicators.
+- [Longevity World Cup](https://longevityworldcup.com/) — Open-source healthspan competition platform with biological-age leaderboards, athlete profiles, calculators, and public data endpoints.
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/) — Database of biomedical and life sciences research literature.
 
 ## Telemedicine & Virtual Care
