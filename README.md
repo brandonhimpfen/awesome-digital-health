@@ -59,6 +59,7 @@ AI systems and frameworks for diagnostics, imaging, prediction, and clinical dec
 
 Frameworks, regulations, and tools for protecting healthcare data and ensuring compliance.
 
+- [BAA Atlas](https://baa-atlas.vercel.app/ai/hipaa) — Cited, date-stamped tracker of which AI tools will sign a HIPAA Business Associate Agreement and on which plan tier, for checking whether an AI vendor can handle PHI.
 - [HIPAA](https://www.hhs.gov/hipaa/index.html) — U.S. regulation for protecting patient health information.
 - [ISO/IEC 27799](https://www.iso.org/standard/62777.html) — Information security standard for healthcare organizations.
 - [OpenSSL](https://www.openssl.org/) — Cryptographic library used to secure healthcare systems and communications.
