@@ -57,6 +57,7 @@ AI systems and frameworks for diagnostics, imaging, prediction, and clinical dec
 - [DeepMind Health](https://deepmind.google/health/) — AI research initiatives focused on clinical and healthcare applications.
 - [MONAI](https://monai.io/) — Open-source framework for medical imaging AI.
 - [NVIDIA Clara](https://developer.nvidia.com/clara) — AI computing platform for medical imaging and genomics.
+- [Yuan Doctor](https://www.yuandoctor.com/) — Browser-local clinical calculators and care pathways for licensed clinicians, with an AI citation skill (`/for-ai/SKILL.md`).
 
 ## Privacy, Security & Compliance
 
