@@ -41,6 +41,7 @@ Standards and frameworks that enable healthcare systems to exchange and understa
 - [HL7](https://www.hl7.org/) — International standards organization for healthcare data exchange.
 - [LOINC](https://loinc.org/) — Standard for identifying medical laboratory observations.
 - [SNOMED CT](https://www.snomed.org/) — Comprehensive clinical terminology for healthcare data.
+- [SIDHA](https://github.com/developer-rpai/sidha) — Open reference implementation for clinical data harmonization: maps EHR data to OMOP CDM and FHIR R4, with synthetic cohort generation for research.
 
 ## Healthcare Analytics
 
