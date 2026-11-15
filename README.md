@@ -90,6 +90,7 @@ Devices and systems for tracking health metrics and enabling continuous monitori
 - [CareClinic](https://careclinic.io/) — Patient-centered platform for tracking symptoms, medications, mood, sleep, and health trends.
 - [Fitbit Platform](https://dev.fitbit.com/) — APIs and tools for wearable health tracking.
 - [Google Fit](https://developers.google.com/fit) — Platform for collecting and analyzing fitness and health data.
+- [SPLYT: POTS](https://splyt.fit/pots) — Patient app for POTS that tracks heart rate against a personal baseline with Apple Watch and shares a report with clinicians.
 
 ## Related Awesome Lists
 
